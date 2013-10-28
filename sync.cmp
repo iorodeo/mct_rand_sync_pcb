@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 28 Oct 2013 03:16:38 PM PDT
+
+BeginCmp
+TimeStamp = /526ECD62;
+Reference = C1;
+ValeurCmp = 0.33uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /526EC6DB;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = BNC;
+EndCmp
+
+BeginCmp
+TimeStamp = /526EC6EA;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = BNC;
+EndCmp
+
+BeginCmp
+TimeStamp = /526ECE61;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /526EC4D5;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = DCJACK_2PIN_HIGHCURRENT;
+EndCmp
+
+BeginCmp
+TimeStamp = /526EC6CC;
+Reference = P5;
+ValeurCmp = CONN_5X2;
+IdModule  = HEADER_5x2_LARGE;
+EndCmp
+
+BeginCmp
+TimeStamp = /526ECB95;
+Reference = P6;
+ValeurCmp = CONN_5X2;
+IdModule  = HEADER_5x2_LARGE;
+EndCmp
+
+BeginCmp
+TimeStamp = /526ECD44;
+Reference = R1;
+ValeurCmp = 68;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /526EC465;
+Reference = U1;
+ValeurCmp = ARDUINO_NANO;
+IdModule  = arduino_nano;
+EndCmp
+
+EndListe
